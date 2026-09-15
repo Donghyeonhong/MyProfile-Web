@@ -4,4 +4,5 @@
 취미: 유튜브시청
 
 생년월일: 2001/09/25
-학년: 4학
+학년: 4학년
+github주소: https://github.com/Donghyeonhong
